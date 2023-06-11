@@ -36,8 +36,13 @@ public class stepDefination {
 >>>>>>> f5acc57c6b0a2df1919eff7b145fd6604046a802
     	---GITDemo-----
 System.out.println("user check in #11");
+
+---GITX-----
+System.out.println("user check in #12");
     }
   @Given("^validate the browser$")
+  
+  
   public void validate_the_browser() throws Throwable {
 	  System.out.println("deciding the browser to open");
   }
