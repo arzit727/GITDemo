@@ -19,6 +19,8 @@ public class stepDefination {
     public void user_is_on_netbanking_landing_page() throws Throwable {
     //code to navigate to login url
     	System.out.println("navigated to login url");
+    	System.out.println("user check in #1");
+    	System.out.println("user check in #2");
     	
     }
   @Given("^validate the browser$")
