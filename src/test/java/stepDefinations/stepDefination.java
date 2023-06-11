@@ -29,6 +29,9 @@ public class stepDefination {
     	System.out.println("user check in #8");
     	System.out.println("user check in #9");
     	
+    	---GITX-----
+    	System.out.println("user check in #10");
+    	
     }
   @Given("^validate the browser$")
   public void validate_the_browser() throws Throwable {
