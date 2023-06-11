@@ -22,6 +22,12 @@ public class stepDefination {
     	System.out.println("user check in #1");
     	System.out.println("user check in #2");
     	System.out.println("user check in #3");
+    	System.out.println("user check in #5");
+    	System.out.println("user check in #6");
+    	
+    	System.out.println("user check in #7");
+    	System.out.println("user check in #8");
+    	System.out.println("user check in #9");
     	
     }
   @Given("^validate the browser$")
