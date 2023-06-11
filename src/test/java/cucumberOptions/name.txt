@@ -4,6 +4,7 @@ b
 c
 d
 e
+g
 
 number
 1
