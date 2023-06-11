@@ -20,8 +20,6 @@ public class stepDefination {
     //code to navigate to login url
     	System.out.println("navigated to login url");
     	System.out.println("user check in #1");
-    	System.out.println("user check in #2");
-    	System.out.println("user check in #3");
     	
     }
   @Given("^validate the browser$")
